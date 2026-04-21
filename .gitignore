@@ -1,0 +1,7 @@
+.env
+test_api_auths.py
+desktop.ini
+testdata/desktop.ini
+__pycache__/
+.venv/
+.idea/
